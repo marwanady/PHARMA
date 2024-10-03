@@ -112,8 +112,8 @@ nav ul li a:hover::after {
   color: #1f3b4d;
   background-color: white;
   position: absolute;
-  top: 50px;
-  left: 10px;
+  top: 40px;
+  left: 3px;
   transform: scale(0);
   z-index: 1;
 }
@@ -131,6 +131,9 @@ nav ul li a:hover::after {
 .icons {
   font-size: 25px;
   color: #1f3b4d;
+}
+.table-pointer {
+  cursor: pointer;
 }
 /* //////////// */
 /* MAIN */
